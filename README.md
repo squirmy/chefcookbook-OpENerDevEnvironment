@@ -12,4 +12,4 @@ Depends on the following cookbooks
 * CppUTest (found at https://github.com/CapXilinx/chefcookbook-CppUTest)
 * build-essential
 * cmake
-* libtool (a dependency from CppUTest)
+* libtool (a dependency of CppUTest, found at https://github.com/CapXilinx/chefcookbook-libtool.git)
