@@ -1,0 +1,12 @@
+name 'OpENer'
+maintainer 'Martin Melik Merkumians'
+maintainer_email 'melik-merkumians@acin.tuwien.ac.at'
+license 'all_rights'
+description 'Installs/Configures OpENer'
+long_description 'Installs/Configures OpENer'
+version '0.1.0'
+
+depends 'git', '~> 4.3'
+depends 'build-essential', '~> 2.2.3'
+depends 'cmake', '~> 0.3.0'
+depends 'CppUTest', '~> 0.1.0'
