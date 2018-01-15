@@ -7,6 +7,6 @@ long_description 'Installs/Configures OpENer'
 version '0.1.0'
 
 depends 'git', '~> 8.0.0'
-depends 'build-essential', '~> 2.2.3'
+depends 'build-essential', '~> 8.0.4'
 depends 'cmake', '~> 0.3.0'
 depends 'CppUTest', '~> 0.1.0'
